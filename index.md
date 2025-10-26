@@ -18,3 +18,6 @@ Currently, I'm building my skills in **JavaScript**, **HTML**, **CSS**, **C#**, 
 📍 **Based in:** Canada  
 🎓 **Focus:** Front-End Web Development, Back-End Web Development, and Database Design  
 🧰 **Skills:** HTML • CSS • JavaScript • SQL • Figma • Git/GitHub
+
+Click here to contact me
+Click here to view my portfolio
