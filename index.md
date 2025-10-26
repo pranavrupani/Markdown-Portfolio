@@ -20,4 +20,4 @@ Currently, I'm building my skills in **JavaScript**, **HTML**, **CSS**, **C#**, 
 🧰 **Skills:** HTML • CSS • JavaScript • SQL • Figma • Git/GitHub
 
 [Click here to contact me](/contact.md)
-[Click here to view my portfolio](/Markdown-Portfolio/projects)
+[Click here to view my portfolio](/projects.md)
