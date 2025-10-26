@@ -6,7 +6,7 @@ Here are some of my featured projects hosted on GitHub:
 **Description:**  
 A simple website that contains an introductory page and portfolio for Intro to Web Dev class
 **Tech:** HTML, CSS  
-🔗[View on GitHub](https://pranavrupani.github.io/HTTP-5110-Introduction-to-Web-Development/)) 
+🔗[View on GitHub](https://pranavrupani.github.io/HTTP-5110-Introduction-to-Web-Development/)
 
 
 ---
