@@ -19,5 +19,5 @@ Currently, I'm building my skills in **JavaScript**, **HTML**, **CSS**, **C#**, 
 🎓 **Focus:** Front-End Web Development, Back-End Web Development, and Database Design  
 🧰 **Skills:** HTML • CSS • JavaScript • SQL • Figma • Git/GitHub
 
-[Click here to contact me](/contact.md)
-[Click here to view my portfolio](/projects.md)
+[Click here to contact me](/contact.md)  
+[Click here to view my portfolio](/projects.md)  
